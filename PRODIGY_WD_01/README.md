@@ -2,7 +2,7 @@
 
 This project was given by [Prodigy Infotech](https://prodigyinfotech.dev/) as Task 1.
 
-See [Demo](https://prodigyinfotechint-wd-01.netlify.app//)
+See [Demo](https://prodigy-internshipwd-01.netlify.app/)
 
 ## Description
 
