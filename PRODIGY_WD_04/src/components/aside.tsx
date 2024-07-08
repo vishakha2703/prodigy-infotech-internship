@@ -34,6 +34,13 @@ const Aside = () => {
       icon: <PiGithubLogoLight />,
       value: "Vishakha Patil",
     },
+    ];
+  const SOCIAK_LINKS = [
+    {
+      title: "Instagram",
+      link: "https://www.instagram.com/cupcxkei",
+      icon: <CiInstagram />,
+    },
   ];
 
   return (
