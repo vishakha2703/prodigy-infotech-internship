@@ -18,28 +18,21 @@ const Aside = () => {
   const CONTACTS_LIST = [
     {
       title: "Email",
-      link: "mailto:samikshas0212@gmail.com",
+      link: "mailto:vishakha27patil@gmail.com",
       icon: <CiMail />,
-      value: "samikshas0212@gmail.com",
+      value: "vishakha27patil@gmail.com",
     },
     {
       title: "LinkedIn",
-      link: "https://www.linkedin.com/in/samiksha-singh-9828662b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      link: "https://www.linkedin.com/in/vishakha-patil-5045b82b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       icon: <PiLinkedinLogoLight />,
-      value: "Samiksha Singh",
+      value: "Vishakha Patil",
     },
     {
       title: "Github",
-      link: "https://www.github.com/samiksha0312",
+      link: "https://www.github.com/vishakha2703",
       icon: <PiGithubLogoLight />,
-      value: "Samiksha Singh",
-    },
-  ];
-  const SOCIAK_LINKS = [
-    {
-      title: "Instagram",
-      link: "https://www.instagram.com/_samikshasingh_12",
-      icon: <CiInstagram />,
+      value: "Vishakha Patil",
     },
   ];
 
@@ -47,12 +40,12 @@ const Aside = () => {
     <aside className="sidebar" data-sidebar ref={sidebarRef}>
       <div className="sidebar-info">
         <figure className="avatar-box">
-          <Image src={AvatarImg} placeholder="blur" alt="Samiksha Singh" />
+          <Image src={AvatarImg} placeholder="blur" alt="Vishakha Patil" />
         </figure>
 
         <div className="info-content">
           <h1 className="name" title="Richard hanrick">
-            Samiksha Singh
+            Vishakha Patil
           </h1>
 
           <p className="title">Web Developer</p>
