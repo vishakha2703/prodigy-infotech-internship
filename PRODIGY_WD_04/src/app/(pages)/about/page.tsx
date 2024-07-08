@@ -41,22 +41,22 @@ export default function About() {
     {
       name: "Patrick David",
       avatar: image1,
-      text: "Samiksha was hired to create a full-stack web app. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. ",
+      text: "Vishakha was hired to create a full-stack web app. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. ",
     },
     {
       name: "Lauren Waller",
       avatar: image2,
-      text: "I am very happy with the work done by Samiksha. She was hired to create a website and she did it very well. She has a lot of experience and is very concerned about the needs of client.",
+      text: "I am very happy with the work done by Vishakha. She was hired to create a website and she did it very well. She has a lot of experience and is very concerned about the needs of client.",
     },
     {
       name: "Emily evans",
       avatar: image3,
-      text: "Samiksha was hired to create a Next.js web app. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client.",
+      text: "Vishakha was hired to create a Next.js web app. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client.",
     },
     {
       name: "Henry william",
       avatar: image4,
-      text: "I am very happy with the work done by Samiksha. She was hired to create a website and she did it very well. She has a lot of experience and is very concerned about the needs of client.",
+      text: "I am very happy with the work done by Vishakha. She was hired to create a website and she did it very well. She has a lot of experience and is very concerned about the needs of client.",
     },
   ];
 
@@ -101,7 +101,7 @@ export default function About() {
 
       <section className="about-text">
         <p>
-          🙋‍♂️ Greetings! I&apos;m Samiksha Singh, a passionate web
+          🙋‍♂️ Greetings! I&apos;m Vishakha Patil, a passionate web
           developer. I specialize web
           development in React and Next.js. I&apos;m also a huge fan of
           open-source. I&apos;m currently looking for opportunities to work as a
