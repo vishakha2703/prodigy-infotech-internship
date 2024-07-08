@@ -10,7 +10,7 @@ const TIMELINES = [
         text: "I am currently studying in this college. I am studying Electronics and Telecommunication. I am 4th year student. ",
       },
       {
-        title: "Kendriya Vidyalaya O. F. Varangaon",
+        title: "Kisan arts and science college,parola",
         date: "2020 — 2022",
         text: "I studied in this school for 2 years. I studied 11 and 12 in this school. I was a science student. I studied Physics, Chemistry, Mathematics",
       },
